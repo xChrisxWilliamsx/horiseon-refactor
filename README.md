@@ -19,7 +19,11 @@
 <p> Enable screen reader (site and code tested with built in Windows 11 narrator).  Found easiest function to use < ^ v > directional keys to read each element and their function to spec. 
 <p><strong>Webpage should render as such:</strong>
 
+<br>
+
 <img src="./assets/images/horiseon-fullpage-img.png" width="400" height="450" alt="Horiseon full webpage render">
+
+<br>
 
 ## Spot an issue?  Would like to contribute? 
 
