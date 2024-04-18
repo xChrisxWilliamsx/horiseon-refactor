@@ -5,7 +5,7 @@
     margin: 0;
 }
 
-/* sets body stlye / background color */
+/* sets body style / background color */
 body {
     background-color: #d9dcd6;
 }
@@ -21,7 +21,7 @@ p {
     font-size: 16px;
 }
 
-/* sets stlye for header / box, font, background color, and text elements */
+/* sets style for header / box, font, background color, and text elements */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -29,7 +29,7 @@ p {
     color: #ffffff;
 }
 
-/* sets header heading 1 stlye / display type and font size */
+/* sets header heading 1 style / display type and font size */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -54,7 +54,7 @@ p {
     list-style-type: none;
 }
 
-/* sets header listed item stlye / display type and positioning */
+/* sets header listed item style / display type and positioning */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
